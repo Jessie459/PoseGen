@@ -9,6 +9,7 @@
     <strong>Finn Wong<sup>&dagger;</sup></strong>
     <br>
         <a href="https://arxiv.org/abs/2508.05091"><img src='https://img.shields.io/badge/PoseGen-arXiv-red' alt='Paper PDF'></a>
+        <a href="https://jessie459.github.io/PoseGen-Page/"><img src='https://img.shields.io/badge/PoseGen-Project_Page-green' alt='Project Page'></a>
     <br>
 </p>
 
