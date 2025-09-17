@@ -1,0 +1,6 @@
+decord
+deepspeed
+huggingface_hub
+lightning
+matplotlib
+opencv_python
